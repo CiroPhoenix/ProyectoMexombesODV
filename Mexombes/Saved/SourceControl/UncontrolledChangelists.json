@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/Blood-Screen.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/hand-blood.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/Hearth_Icon.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/mafia-blood-5_2_.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/mafia-blood-5_3_.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/mafia-blood-5.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/Mexombes_Fondo.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Imagenes/Mexombes_Fondo2.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/fonts/Zombie_Mummy1.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/fonts/ZOMBIE.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/Menu/PausaMenu.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/5V/7YKYZ0CITQ9L14QD4DWYVM.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/VC/MVYMN8D2OUOZHP29ZY6WE6.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/FirstPerson/Blueprints/HealthBar.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/CajaDeMadera.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/defaultMat.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/BT_AI.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/BBD_AI.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/Tasks/BTTask_BlueprintBase_New.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/BP_AI.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/AI_Controller.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/EA/GT72IKZIKDOJ4PS49DAHHL.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/XN/L4M79K7XQABSNEWH6VAWAY.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/16/G6ARUMSW82A6FFYVKWT6RT.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/T8/WH65OSLH7G52V3P7CU9JPS.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/Animacion/AIBlendSpace1D.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/Animacion/ABP_AI.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/BP_AI2.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/9Z/LD9N4D3ZZKBD7P5EV64XVD.uasset",
+				"C:/Users/ACER/Documents/Unreal Projects/Optimizacion-De-Videojuegos-main/Mexombes/Content/AI/Tasks/BTTask_ChasePlayer.uasset",
+				"C:/Users/Vanessa/Documents/Unreal Projects/Mexombes/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}
